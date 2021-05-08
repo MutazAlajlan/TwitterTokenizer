@@ -11,7 +11,7 @@ namespace TwitterTokenizer
             GetTweetMatches(tweet1, '@');
             GetTweetMatches(tweet1, '#');
         }
-        //used to get twitter username mentioned in the tweet and usernames.
+        //used to get twitter username mentioned in the tweet and hashtags.
         public static void GetTweetMatches(string tweet, char chr)
         {
             string txt = "";

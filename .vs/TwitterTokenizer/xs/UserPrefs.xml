@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{0FC8BA68-6177-4802-8AB9-3E84FE46E704}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TwitterTokenizer/Program.cs">
     <Files>
-      <File FileName="TwitterTokenizer/Program.cs" Line="1" Column="1" />
+      <File FileName="TwitterTokenizer/Program.cs" Line="14" Column="75" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,11 +13,14 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TwitterTokenizer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TwitterTokenizer PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
