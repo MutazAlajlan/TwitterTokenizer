@@ -1,0 +1,12 @@
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/bin/Debug/netcoreapp3.1/TwitterTokenizer.deps.json
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/bin/Debug/netcoreapp3.1/TwitterTokenizer.runtimeconfig.json
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/bin/Debug/netcoreapp3.1/TwitterTokenizer.runtimeconfig.dev.json
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/bin/Debug/netcoreapp3.1/TwitterTokenizer.dll
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/bin/Debug/netcoreapp3.1/TwitterTokenizer.pdb
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/obj/Debug/netcoreapp3.1/TwitterTokenizer.csprojAssemblyReference.cache
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/obj/Debug/netcoreapp3.1/TwitterTokenizer.AssemblyInfoInputs.cache
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/obj/Debug/netcoreapp3.1/TwitterTokenizer.AssemblyInfo.cs
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/obj/Debug/netcoreapp3.1/TwitterTokenizer.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/obj/Debug/netcoreapp3.1/TwitterTokenizer.dll
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/obj/Debug/netcoreapp3.1/TwitterTokenizer.pdb
+/Users/rook/Projects/TwitterTokenizer/TwitterTokenizer/obj/Debug/netcoreapp3.1/TwitterTokenizer.genruntimeconfig.cache
